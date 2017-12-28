@@ -4,8 +4,8 @@ title:  "Magic Leap One is out of closet."
 desc: "Finally HoloLens now has its long awaited competition which is thankfully not a vapourware. 'Magic Leap One' is out of closet."
 date:   2017-12-22
 keywords: [MixReality, MachineLearning, ComputerVision]
-categories: 
-categories: [HTML]
+categories: [MixReality, MachineLearning, ComputerVision]
+tags: [MixReality, MachineLearning, ComputerVision]
 icon: icon-html
 ---
 
