@@ -1,9 +1,9 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Jalpc
-description: "Rajendra Rawat's Personal Web"
-keywords: "'Artificial Intelligence','Blockchain','Mix Reality','Quantum Computing','Rajendra Rawat','Raj Rawat','Microsoft'"
+title: "Rajendra Rawat"
+description: "Rajendra Rawat"
+keywords: "Artificial Intelligence, Blockchain , Mix Reality , Quantum Computing , Rajendra Rawat , Rajendra Singh Rawat, Raj Rawat, Microsoft, DotNetRaj, Autany, RAWatLabz, Espire"
 baseurl: https://rasinraw.github.io   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://rasinraw.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
