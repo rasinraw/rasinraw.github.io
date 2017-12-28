@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Heading Microsoft Practice and Partnership, Heading Advanced digital Lab (AI/Bots/IoT), Heading O365/SharePoint Practice, Heading Mobility Practice, Org wide DevOps Initiative, Defining Mission Critical Architetcure (Microservices), Building Data Science & Machine Learning Skills
-percentage: 99, 75, 99, 75, 75, 90, 50
+aspects: AI/Bots, IoT, O365/SharePoint, Mobile Apps, DevOps, Microservices, Machine Learning
+percentage: 80, 80, 99, 85, 90, 85, 50
