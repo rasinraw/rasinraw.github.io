@@ -1,18 +1,19 @@
 # links section data
 - last_name: Autany
   first_name:
-  desc: My Robotics, Automation and IoT blog focusing on Artificial Intelligence, Machine Learning, Mix Reality and Internet of Things
+  desc: My Robotics, Automation and IoT blog focusing on Artificial Intelligence, Machine Learning, Computer Vision, Autonomous Vehicles, Mix Reality and Internet of Things
   website: https://autany.wordpress.com/
+  email: https://twitter.com/autanytweets
  
 
 - last_name: DotNetRaj
   first_name: 
   desc: My Technology Blog focusing mostly on Microsoft Technology Stack (including Quantum Computing, Bot Services, Cognitive Services, HoloLens, IoT Hub, O365...)
   website: https://dotnetraj.wordpress.com/  
-
+  email: https://twitter.com/dotnetraj
 
 - last_name: RAW@Labz
   first_name: 
-  desc: My Robotics & DIY Blog with basic experiments with simple robots.
+  desc: My Robotics & DIY (Do it yourself) Blog with basic experiments with simple robots, machiines and amateur movie making.
   website: https://rawatlabz.wordpress.com/
- 
+  email: https://twitter.com/rawatlabz
