@@ -1,18 +1,18 @@
 # links section data
-- last_name: Name 1
+- last_name: Autany
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc: My Robotics automation and IoT Blog focusing on Artificial Intelligence, Blockchain, Mix Reality and Quantum Computing.
+  website: https://autany.wordpress.com/
+  email: 
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: DotNetRaj
+  first_name: 
+  desc: My Technology Blog (mostly around Microsoft Technology Stack)
+  website: https://dotnetraj.wordpress.com/  
+  email: 
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: RAW@Labz
+  first_name: 
+  desc: My Robotics & DIY Blog with basic experiments with simple robots.
+  website: https://rawatlabz.wordpress.com/
+  email: 
