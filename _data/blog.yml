@@ -3,14 +3,9 @@
   href: /blog/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
-- name: DotNetRaj
-  href: https://dotnetraj.wordpress.com/  
+- name: 
+  href: 
 
-- name: Autany
-  href: https://autany.wordpress.com/
-
-- name: RAW@Labz
-  href: https://rawatlabz.wordpress.com/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
