@@ -4,5 +4,5 @@ title: about
 permalink: /about/
 ---
 
-"I have no special talent. I am only passionately curious" - Albert Einstein
-
+<p><i>"I have no special talent. I am only passionately curious"</i></p>
+<p><i>- Albert Einstein</i></p>

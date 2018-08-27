@@ -5,6 +5,5 @@
 layout: home
 ---
 
-"the future belongs to those who understand at a very deep level how to combine their unique expertise with what algorithms do best" 
-
-- Pedro Domingos, The Master Algorithm
+<p><i>"the future belongs to those who understand at a very deep level how to combine their unique expertise with what algorithms do best"</i></p>
+<p><i>- Pedro Domingos, The Master Algorithm</i></p>
