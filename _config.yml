@@ -1,70 +1,41 @@
 # Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Website settings
-title: "Rajendra Rawat"
-description: "Rajendra Rawat"
-keywords: "Artificial Intelligence, Blockchain , Mix Reality , Quantum Computing , Rajendra Rawat , Rajendra Singh Rawat, Raj Rawat, Microsoft, DotNetRaj, Autany, RAWatLabz, Espire"
-baseurl: https://rasinraw.github.io   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://rasinraw.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
-# url: http://127.0.0.1:4000
-img_path: /static/assets/img  # url should be '/homepage/static/assets/img/blog' as before
-
-# author -- index page "about me" section
-author:  # change following line to your infomation.
-  name: "Rajendra Rawat(Raj)"  # Be used at blog posts' author.
-  first_name: Rajendra  # Be used at index page about me section.
-  last_name: Rawat  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username:   # Leave blank if you don't have now
-  linkedin_id:  # Leave blank if you don't have now
-  facebook_username:   # Leave blank if you don't have now
-  twitter_username: rasinraw  # Leave blank if you don't have now
-  email:   # Leave blank if you don't have now
-  cv:   # An online CV can be printed as PDF, leave blank if you don't have now
-  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
-  skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
-  desc: I’m Raj Rawat, a tech enthusiast and an Enterprise Content Management SME with over 17 years of rich experience spanning several roles and verticals. My consulting job (including 7 years at Microsoft) has demanded a lot of travel spanning several countries and continents. Along this journey, I have helped several CxOs with technical direction in defining their Digital Business roadmaps & strategies. I’m currently heading a Microsoft Practice and an Advanced Digital Labs group in a New Delhi based company where besides other things, I’m currently mentoring a small team, working on IoT and bots. My current interest is in AI and Mix Reality. 
-
-# comment
-#disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  #name: https-rasinraw-github-io
-
-# analytics
-## google analytics
-#ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  # id:
-
-## google optimize
-#go:
-  # id:
-
-## growingIO
-#gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
-  # id:
-
-## donation
-donation: off  # type 'on'/'off' to choice display donation button at post page or not
-
-## carousels
-index_carousel: on  # index page carousel switch
-blog_carousel: on  # blog page carousel switch
-
-# scss
-sass:
-  style: compressed
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: rasinraw
+email: 
+description: >- # this means to ignore newlines until "baseurl:"
+  rasinraw
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://rasinraw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: rasinraw
+github_username:  rasinraw
 
 # Build settings
-encoding: utf-8
-
-# other settings
-highlighter: rouge
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
 
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
