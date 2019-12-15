@@ -8,7 +8,10 @@ layout: home
 <p><i>"the future belongs to those who understand at a very deep level how to combine their unique expertise with what algorithms do best"</i></p>
 <p><i>- Pedro Domingos, The Master Algorithm</i></p>
 
-My old blogs: [Digital Workplace][1] . [AI][2] . [Robotics][3]
+My old blogs: 
+1. [Digital Transformation & Digital Workplace][1] 
+2. [Artificial Intelligence][2] 
+3. [Robotics][3]
 
 [1]: https://worksmartz.wordpress.com/
 [2]: https://autany.wordpress.com/
