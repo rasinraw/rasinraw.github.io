@@ -9,7 +9,7 @@ layout: home
 <p><i>- Pedro Domingos, The Master Algorithm</i></p>
 
 My old blogs: 
-1. [Digital Transformation & Digital Workplace][1] 
+1. [Digital Transformation][1] 
 2. [Artificial Intelligence][2] 
 3. [Robotics][3]
 
