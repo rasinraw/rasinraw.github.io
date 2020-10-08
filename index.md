@@ -11,7 +11,7 @@ layout: home
 My blogs: 
 1. [Digital Transformation][1] 
 2. [Artificial Intelligence][2] 
-3. [Robotics][3]
+3. [Robotics Fun][3]
 
 [1]: https://worksmartz.wordpress.com/
 [2]: https://autany.wordpress.com/
