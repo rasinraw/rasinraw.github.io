@@ -9,15 +9,22 @@ layout: home
 
 <br/><br/>
 
-In recent media:
+In media:
 - [My Interview Excerpts][4]
 - [Global Case Study][7]
 
-My other blogs:
+My blogs:
 - [Digital Transformation][1] 
 - [Artificial Intelligence][2] 
 - [Robotics Fun][3]
 - [Current Company][5]
+
+Old blogs:
+- [MSDN][8]
+- [Ireland][9]
+- [DotNetRaj 2.0][10]
+- [DotNetRaj 1.0][11]
+
 
 
 
@@ -28,3 +35,8 @@ My other blogs:
 [5]: https://www.espire.com/blog/bloggers/rajendra-rawat?auth=Rajendra%20Rawat#!
 [6]: https://www.espire.com/about-us/team/rajendra-rawat
 [7]: https://news.microsoft.com/en-au/features/australian-catholic-university-harnesses-cloud-data-and-ai-to-spur-staff-and-student-success/
+[8]: http://blogs.msdn.com/rrawat
+[9]: http://blog.developers.ie/rrawat
+[10]: http://dotnetraj.spaces.live.com
+[11]: http://dotnetraj.blogdrives.com/
+
