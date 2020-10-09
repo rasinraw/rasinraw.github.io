@@ -8,20 +8,15 @@ layout: home
 <p><i>"the future belongs to those who understand at a very deep level how to combine their unique expertise with what algorithms do best"</i></p>
 <p><i>- Pedro Domingos, The Master Algorithm</i></p>
 
-Recent Media: (Microsoft)
+In recent media:
 - [My Interview Excerpts][4]
 - [Global Case Study][7]
 
-My blogs: (Personal)
+My other blogs:
 - [Digital Transformation][1] 
 - [Artificial Intelligence][2] 
 - [Robotics Fun][3]
-
-My blogs: (Official)
 - [Current Company][5]
-
-Profile: (Official)
-- [Current Company][6] 
 
 [1]: https://worksmartz.wordpress.com/
 [2]: https://autany.wordpress.com/
