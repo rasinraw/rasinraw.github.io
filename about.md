@@ -6,7 +6,8 @@ permalink: /about/
 
 <p><i>"I have no special talent. I am only passionately curious"</i></p>
 <p><i>- Albert Einstein</i></p>
-
+<br></br>
+<br></br>
 <p><b>My Mission</b></p>
 <h2>"To free humans from becoming machines, and be more Humane"</h2>
 
