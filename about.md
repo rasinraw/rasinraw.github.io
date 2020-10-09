@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Raj Rawat | About
+title: About
 permalink: /about/
 ---
 
