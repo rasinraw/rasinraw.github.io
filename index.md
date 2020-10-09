@@ -18,7 +18,8 @@ My other blogs:
 - [Artificial Intelligence][2] 
 - [Robotics Fun][3]
 - [Current Company][5]
-
+<br />
+<br />
 [1]: https://worksmartz.wordpress.com/
 [2]: https://autany.wordpress.com/
 [3]: https://rawatlabz.wordpress.com/
