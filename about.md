@@ -12,7 +12,7 @@ permalink: /about/
 <p><b>My Mission</b></p>
 <h2>"To free humans from becoming machines, and be more Humane"</h2>
 
-<p>Key things that differentiate us humans from other species are ‘tools/tech we create/use’ and ‘collective scale of collaboration’.</p>
+<p>Key things that differentiate us humans from other species are ‘tools/tech we create/use’ and ‘collective scale of sustained collaboration’.</p>
 
 <p><i>My mission is to free humans from repetitive tasks via Automation & AI and to utilize superior Human Intelligence for bigger and better things.</i></p>
 
