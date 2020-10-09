@@ -11,7 +11,7 @@ layout: home
 Recent Media:
 (Microsoft)
 - [My Interview Excerpts][4]
-- [Global Case Study[7]
+- [Global Case Study][7]
 
 My blogs:
 (Personal)
