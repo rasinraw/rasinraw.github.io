@@ -10,14 +10,15 @@ layout: home
 <br/><br/>
 
 In media:
-- [My Interview Excerpts][4]
+- [My Microsoft Interview Excerpts][4]
+- [My Pic featured in VC Award][12]
 - [Global Case Study][7]
 
 My blogs:
 - [Digital Transformation][1] 
+- [My Official Blog][5]
 - [Artificial Intelligence][2] 
 - [Robotics Fun][3]
-- [Current Company][5]
 
 Old blogs:
 - [MSDN][8]
@@ -39,4 +40,5 @@ Old blogs:
 [9]: http://blog.developers.ie/rrawat
 [10]: http://dotnetraj.spaces.live.com
 [11]: http://dotnetraj.blogdrives.com/
+[12]: https://staff.acu.edu.au/human_resources/staff-awards/2020-vice-chancellors-staff-excellence-awards/service-excellence-digital-workspace-program-and-team
 
