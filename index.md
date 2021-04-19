@@ -10,7 +10,7 @@ layout: home
 <br/><br/>
 
 
-## News:
+## In News:
 * 03/12/2020 - [A leading university moves to a new way of working with Microsoft Teams](https://customers.microsoft.com/en-us/story/836551-australian-catholic-university-higher-education-teams) - Microsoft
     > Spot my name featured in this article
 
@@ -26,7 +26,7 @@ layout: home
 
 
 
-## Blogs:
+## My Blogs:
 - [M365](https://worksmartz.wordpress.com/)
 - [AI](https://autany.wordpress.com/)
 - [Robotics](https://rawatlabz.wordpress.com/)
