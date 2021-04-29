@@ -27,7 +27,7 @@ layout: home
 
 
 ## My Blogs:
-- [M365](https://worksmartz.wordpress.com/)
+- [Microsoft](https://worksmartz.wordpress.com/)
 - [AI](https://autany.wordpress.com/)
 - [Robotics](https://rawatlabz.wordpress.com/)
 - [Employer](https://www.espire.com/blog/bloggers/rajendra-rawat?auth=Rajendra%20Rawat#!)
