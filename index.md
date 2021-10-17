@@ -16,10 +16,10 @@ layout: home
 - [Azure Developer Associate - Microsoft, Jun 2021](https://www.credly.com/badges/62edd8cf-a403-482c-a612-5f8a6907739a)
 - [Azure Fundamentals - Microsoft, Aug 2020](https://www.credly.com/badges/1fae5ab6-2297-4514-a02e-6d2bcf56d758)
 - [Managing Machine Learning Projects with Google Cloud - Google, Jun 2020](https://www.coursera.org/account/accomplishments/records/7DF255DGGF88)
-- [Deep Learning Specialization - DeepLearning.AI, Dec 2019](https://www.coursera.org/account/accomplishments/specialization/H76RGYLFZQ45)
+- [Deep Learning Specialization - DeepLearning.ai, Dec 2019](https://www.coursera.org/account/accomplishments/specialization/H76RGYLFZQ45)
 - [Machine Learning Certificate - Stanford University, May 2019](https://www.coursera.org/account/accomplishments/verify/WAMDY83EXD9J)
 - [Professional Program Data Science Orientation - Microsoft, Oct 2017](https://courses.edx.org/certificates/a74a271d1466482c8be05ceb455fc4ba)
-- [MCAD.NET, MCSD.NET, MCPD, MCTS Certifications:Transcript ID: 747419 Access Code: 416921351](https://mcp.microsoft.com/Anonymous/Transcript/Validate)
+- MCAD.NET, MCSD.NET, MCPD, MCTS Certifications
 
 <h2 class="post-list-heading">Awards</h2>
 
@@ -30,6 +30,6 @@ layout: home
 
 <h2 class="post-list-heading">Blogs</h2>
 
-- [Cloud](https://worksmartz.wordpress.com/)
+- [Microsoft](https://worksmartz.wordpress.com/)
 - [Robotics](https://rawatlabz.wordpress.com/)
 - [AI](https://autany.wordpress.com/)
