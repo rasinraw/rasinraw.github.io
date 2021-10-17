@@ -9,12 +9,6 @@ layout: home
 
 <br />
 
-<h2 class="post-list-heading">Blogs</h2>
-
-- [Cloud](https://worksmartz.wordpress.com/)
-- [Robotics](https://rawatlabz.wordpress.com/)
-- [AI](https://autany.wordpress.com/)
-
 <h2 class="post-list-heading">Certificates</h2>
 
 - [Azure Data Scientist Associate - Microsoft, Oct 2021](https://www.credly.com/badges/2610f519-ea4c-47a1-bb5e-f175b07d39f4)
@@ -33,3 +27,9 @@ layout: home
 - [Outstanding Contribution to Digital Workspace Transformation - Australian Catholic University, Jun 2020](https://www.linkedin.com/feed/update/urn:li:activity:6680425215421497344/)
 - Gem of the Year 2018 - Espire Infolabs, Jan 2019
 - Automation Champion  - Espire Infolabs, Jan 2017
+
+<h2 class="post-list-heading">Blogs</h2>
+
+- [Cloud](https://worksmartz.wordpress.com/)
+- [Robotics](https://rawatlabz.wordpress.com/)
+- [AI](https://autany.wordpress.com/)
