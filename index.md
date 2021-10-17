@@ -4,10 +4,11 @@
 layout: home
 ---
 
-<h3><i>"the future belongs to those who understand at a very deep level how to combine their unique expertise with what algorithms do best"</i></h3>
-<h3><i>- Pedro Domingos, The Master Algorithm</i></h3>
+> the future belongs to those who understand at a very deep level how to combine their unique expertise with what algorithms do best"
+> - Pedro Domingos, The Master Algorithm<
 
-## My Blogs:
+<h2 class="post-list-heading">Raj Blogs</h2>
+
 - [Microsoft Tech](https://worksmartz.wordpress.com/)
 - [Robotics Fun](https://rawatlabz.wordpress.com/)
 - [AI](https://autany.wordpress.com/)
