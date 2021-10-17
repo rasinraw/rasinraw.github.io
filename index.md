@@ -25,3 +25,11 @@ layout: home
 - [Deep Learning Specialization - DeepLearning.AI, Dec 2019](https://www.coursera.org/account/accomplishments/specialization/H76RGYLFZQ45)
 - [Machine Learning Certificate - Stanford University, May 2019](https://www.coursera.org/account/accomplishments/verify/WAMDY83EXD9J)
 - [Professional Program Data Science Orientation - Microsoft, Oct 2017](https://courses.edx.org/certificates/a74a271d1466482c8be05ceb455fc4ba)
+- [MCAD.NET, MCSD.NET, MCPD, MCTS Certifications:Transcript ID: 747419 Access Code: 416921351](https://mcp.microsoft.com/Anonymous/Transcript/Validate)
+
+<h2 class="post-list-heading">Awards</h2>
+
+- Gem of the Year 2019 - Espire Infolabs, Aug 2020
+- [Outstanding Contribution to Digital Workspace Transformation - Australian Catholic University, Jun 2020](https://www.linkedin.com/feed/update/urn:li:activity:6680425215421497344/)
+- Gem of the Year 2018 - Espire Infolabs, Jan 2019
+- Automation Champion  - Espire Infolabs, Jan 2017
