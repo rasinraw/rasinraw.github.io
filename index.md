@@ -4,15 +4,16 @@
 layout: home
 ---
 
-<h3><i>the future belongs to those who understand at a very deep level how to combine their unique expertise with what algorithms do best"</i></h3>
+<h3><i>"the future belongs to those who understand at a very deep level how to combine their unique expertise with what algorithms do best"</i></h3>
 <h3><i>- Pedro Domingos, The Master Algorithm</i></h3>
 
+<br />
 
 <h2 class="post-list-heading">Blogs</h2>
 
 - [Cloud](https://worksmartz.wordpress.com/)
 - [Robotics](https://rawatlabz.wordpress.com/)
-- [Ai](https://autany.wordpress.com/)
+- [AI](https://autany.wordpress.com/)
 
 <h2 class="post-list-heading">Certificates</h2>
 
