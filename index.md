@@ -24,7 +24,7 @@ layout: home
 <h2 class="post-list-heading">Awards</h2>
 
 - Gem of the Year 2019 - Espire Infolabs, Aug 2020
-- [Outstanding Contribution to Digital Workspace Transformation - Australian Catholic University, Jun 2020](https://www.linkedin.com/feed/update/urn:li:activity:6680425215421497344/)
+- [Outstanding Contribution to Digital Transformation - Australian Catholic University, Jun 2020](https://www.linkedin.com/feed/update/urn:li:activity:6680425215421497344/)
 - Gem of the Year 2018 - Espire Infolabs, Jan 2019
 - Automation Champion  - Espire Infolabs, Jan 2017
 
